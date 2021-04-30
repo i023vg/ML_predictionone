@@ -7,8 +7,8 @@ pythonの`RandomForest`で実装した。
 1. python環境をzipファイルで持ち運べるembedded版を使うため、`python-3.8.9-embed-win32.zip`を解凍する。  
 2. `input_file.zip`を解凍した`input_file`フォルダと、`include.zip`を解凍した`include`ファイルを1.で解凍したフォルダ内に置く。  
 3. 学習モデル作成プログラム`RF_train_05.py`と、モデルから推測を行う`RF_predict_05.py`も1.で解凍したフォルダ内に置く。  
-4. 3.のプログラムを実行するために`pandas`,`sklearn`,`matplotlib`,`japanize-matplotlib`をインストールする。  
-5. コマンドプロンプトを起動し、`cd`コマンドを使って、1.で解凍したフォルダをカレントパスとして指定する。  
+4. コマンドプロンプトを起動し、`cd`コマンドを使って、1.で解凍したフォルダをカレントパスとして指定する。  
+5. 3.のプログラムを実行するために`pandas`,`sklearn`,`matplotlib`,`japanize-matplotlib`をインストールする。  
 6. 学習モデル作成プログラム`RF_train_05.py`を実行するために、コマンドプロンプトから次のコマンドを打つ。  `python RF_train_05.py`  
 7. モデルから推測を行う`RF_predict_05.py`を実行するために、コマンドプロンプトから次のコマンドを打つ。  `python RF_predict_05.py`  
 
