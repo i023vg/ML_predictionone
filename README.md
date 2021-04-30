@@ -1,7 +1,8 @@
 # ML_predictionone
 AI予測分析ツールPrediction Oneのチュートリアル例(機器の故障予測による故障の未然防止)を
 pythonの`RandomForest`で実装した。
-開発環境としてzipファイルで持ち運べるembedded版を用いた
+開発環境としてzipファイルで持ち運べるembedded版を用いた  
+`python-3.8.9-embed-win32.zip`は、`https://www.python.org/downloads/windows/`からもダウンロードできる
 
 # データ整理
 1. python環境をzipファイルで持ち運べるembedded版を使うため、`python-3.8.9-embed-win32.zip`を解凍する。  
